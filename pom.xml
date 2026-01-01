@@ -16,9 +16,9 @@
 
     <!-- Project Info -->
     <groupId>com.example</groupId>
-    <artifactId>demo-service</artifactId>
+    <artifactId>test</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demo-service</name>
+    <name>test</name>
     <description>Sample Spring Boot Java Project</description>
 
     <!-- Java Version -->
